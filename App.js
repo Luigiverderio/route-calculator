@@ -13,8 +13,8 @@ export default function MyApp() {
 
 function MyButton(){
   return (
-      <button/>
-
-
+      <button>
+        I am a button
+      </button>
   )
 }
